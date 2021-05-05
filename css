@@ -1,0 +1,58 @@
+h1 {
+	color: green;
+}
+.green {
+	color: rgb(0, 255, 0);
+}
+.red {
+	color: rgb(255, 0, 0);
+}
+.big {
+	font-size: 30px;
+}
+.small {
+	font-size: 8px;
+}
+.background {
+	background-color: blue;
+}
+.backgroundnormal {
+	background-color: yellow;
+	width: 170px;
+}
+.hover {
+   color: black;
+   width: 200px;
+}
+.hover:hover {
+	color: purple;
+	font-size: 30px;
+}
+.active {
+	width: 280px;
+}
+.active:active {
+	color: orange;
+} 
+.itog {
+	color: rgb(255, 0, 0);
+	background-color: rgb(0, 0, 255);
+	width: 190px;
+}
+.itog:hover {
+	color: rgb(0, 0, 255);
+	background-color: rgb(255, 0, 0);
+}
+.margin {
+	margin: 20px;
+}
+.padding {
+	padding: 20px;
+}
+.button {
+	color: purple;
+	background-color: orange;
+	margin: 15px;
+	padding: 10px;
+	border-radius: 5px;
+}
